@@ -1,0 +1,4 @@
+C:/Users/myrza/OneDrive/aerora/HIBAH/src2/c++/build/CMakeFiles/dynamixel_sdk.dir
+C:/Users/myrza/OneDrive/aerora/HIBAH/src2/c++/build/CMakeFiles/main.dir
+C:/Users/myrza/OneDrive/aerora/HIBAH/src2/c++/build/CMakeFiles/edit_cache.dir
+C:/Users/myrza/OneDrive/aerora/HIBAH/src2/c++/build/CMakeFiles/rebuild_cache.dir
